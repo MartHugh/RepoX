@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="iOS/HTTPS.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HTTPS/HTTPS.cs">
+    <Files>
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="HTTPS/HTTPS.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
